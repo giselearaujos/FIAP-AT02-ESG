@@ -1,0 +1,150 @@
+{
+  "Header": {
+    "title": "We are a Landing Page",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Consciência Global",
+      "Transformação Pessoal",
+      "Colaboração Empresarial"
+    ],
+    "Why2": [
+      "Parcerias Sustentáveis",
+      "Impacto Positivo",
+      "Inspiração Coletiva"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Inspiração Sustentável",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Práticas ESG em Ação",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Comunidade Engajada",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Impacto Positivo Diário",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Estilo de Vida Sustentável",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Participação Voluntária",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Inovação ESG",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Colaboradores Engajados",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Sustentabilidade em Foco",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Participar do RECI. mudou completamente minha perspectiva sobre o impacto que posso ter, não apenas no meu trabalho, mas na sociedade como um todo.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Estou feliz em fazer parte de uma empresa que se preocupa não apenas com os resultados financeiros, mas também com o bem-estar dos seus colaboradores e o impacto positivo que podemos ter no meio ambiente e na comunidade.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Participar ativamente do RECI. me fez perceber como pequenas ações podem ter um grande impacto. Desde a separação de lixo para reciclagem até o cultivo da minha horta doméstica, cada passo conta para um futuro mais sustentável.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"A plataforma RECI. não apenas promove práticas ESG, mas também recompensa os esforços dos colaboradores. Estou animado para ver como minha contribuição em projetos de voluntariado pode fazer a diferença.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"O RECI. vai além de incentivar hábitos saudáveis no ambiente de trabalho. Ele me inspirou a adotar uma vida mais equilibrada, incorporando atividades físicas diárias e escolhas alimentares conscientes.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Com RECI., descobri como minhas ações podem impactar positivamente não apenas minha carreira, mas a comunidade ao meu redor. Participar de projetos de voluntariado nunca foi tão significativo.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "43 California St, São Paulo, SP 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@reci.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Explore o Conteúdo",
+      "text": "Descubra informações valiosas sobre práticas ESG e como implementá-las no seu dia a dia, desde dicas de cultivo de horta doméstica até orientações sobre projetos de voluntariado."
+    },
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Conecte-se com Empresas Conscientes",
+      "text": "Descubra empresas comprometidas com o ESG. Explore oportunidades de colaboração e veja como recompensam colaboradores por práticas sustentáveis e socialmente responsáveis."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Registre suas Práticas",
+      "text": "Participe ativamente! Registre suas iniciativas ESG e veja como contribuem para um impacto positivo. Acompanhe seus progressos e desfrute dos benefícios dessas práticas na sua vida profissional e pessoal."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Inspire e Compartilhe",
+      "text": "Compartilhe experiências e inspire outros colaboradores. Juntos, criamos uma rede de mudanças positivas que ultrapassam os limites do trabalho, transformando comunidades inteiras."
+    }
+  ]
+}
